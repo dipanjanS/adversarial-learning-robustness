@@ -14,7 +14,7 @@ Contains materials for workshops pertaining to adversarial robustness in deep le
 	* Training with Neural Structured Learning [3]
 * Improving adversarial performance with EfficientNet [4] and its variants like Noisy Student Training [5] and AdvProp [6]
 
-**Note** that this repository is still in its nascent stage. Over time we will be adding more materials on improving performance with Smooth Adversarial Training [7], text-based attacks, and some note on the intepretability aspects of adversarial robustness. 
+**Note** that this repository is still in its nascent stage. Over time we will be adding more materials on improving performance with Smooth Adversarial Training [7], text-based attacks, and some notes on the intepretability aspects of adversarial robustness. Also, the materials presented here are solely meant for educational purposes and aren't meant to be used otherwise. 
 
 We provide Jupyter Notebooks to demonstrate the topics mentioned above. These notebook are fully runnable on Google Colab without any non-trivial configurations. 
 
