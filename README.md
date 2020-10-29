@@ -1,5 +1,12 @@
 # Adversarial Robustness in Deep Learning
-Contains materials for workshops pertaining to adversarial robustness in deep learning. The following things are covered -
+
+![](https://i.imgur.com/sZvPXIR.png)
+
+Contains materials for workshops pertaining to adversarial robustness in deep learning. 
+
+## Outline 
+
+The following things are covered -
 
 * Deep learning essentials
 * Introduction to adversarial perturbations
