@@ -10,7 +10,7 @@ The following things are covered -
 
 * Deep learning essentials
 * Introduction to adversarial perturbations
-	* Natural
+	* Natural [8]
 	* Synthetic [1, 2]
 		* Simple Projected Gradient Descent-based attacks
 		* Targeted Projected Gradient Descent-based attacks
@@ -45,3 +45,4 @@ The notebooks are fully runnable on Google Colab. Here are the steps -
 5. Xie, Qizhe, et al. “Self-Training with Noisy Student Improves ImageNet Classification.” ArXiv:1911.04252 [Cs, Stat], June 2020. arXiv.org, http://arxiv.org/abs/1911.04252.
 6. Xie, Cihang, et al. “Adversarial Examples Improve Image Recognition.” ArXiv:1911.09665 [Cs], Apr. 2020. arXiv.org, http://arxiv.org/abs/1911.09665.
 7. Xie, Cihang, et al. “Smooth Adversarial Training.” ArXiv:2006.14536 [Cs], June 2020. arXiv.org, http://arxiv.org/abs/2006.14536.
+8. Hendrycks, Dan, et al. “Natural Adversarial Examples.” ArXiv:1907.07174 [Cs, Stat], Jan. 2020. arXiv.org, http://arxiv.org/abs/1907.07174.
