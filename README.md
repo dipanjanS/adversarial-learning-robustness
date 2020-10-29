@@ -17,7 +17,7 @@ The following things are covered -
 		* Fast Gradient Sign Method (FGSM) attacks
 * Optimizer susceptibility w.r.t to different attacks
 * Adversarial learning
-	* Training on a dataset pertubed with FGSM
+	* Training on a dataset perturbed with FGSM
 	* Training with Neural Structured Learning [3]
 * Improving adversarial performance with EfficientNet [4] and its variants like Noisy Student Training [5] and AdvProp [6]
 
