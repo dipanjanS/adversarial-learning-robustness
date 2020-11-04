@@ -1,0 +1,1 @@
+This directory contains additional experimentation notebooks covering our experiments on [Smooth Adversarial Training](https://arxiv.org/abs/2006.14536), attacking a model trained with [Noisy Student Training](https://arxiv.org/abs/1911.04252) weights, and so on. 
