@@ -23,7 +23,10 @@ The following things are covered -
 
 **Note** that this repository is still in its nascent stage. Over time we will be adding more materials on improving performance with Smooth Adversarial Training [7], text-based attacks, and some notes on the interpretability aspects of adversarial robustness. Also, the materials presented here are solely meant for educational purposes and aren't meant to be used otherwise. 
 
-We provide Jupyter Notebooks to demonstrate the topics mentioned above. These notebook are fully runnable on Google Colab without any non-trivial configurations. 
+We provide Jupyter Notebooks to demonstrate the topics mentioned above. These notebook are fully runnable on Google Colab without any non-trivial configurations.
+
+## Video recordings
+* [From Kshitij 2021](https://youtu.be/RV7nerh_8gw)
 
 ## How to run the notebooks?
 
